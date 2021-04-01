@@ -13,3 +13,97 @@ p{
 ul{
     line-height: 40px;
 }
+#body_one{
+    background-color: white;
+}
+body{
+    background-color:chartreuse;
+}
+
+
+h1{
+    color: black;
+    text-align: center;
+}
+h2{
+    color: black;
+    font-style: italic;
+    text-align: center;
+}
+p{
+    font-family: sans-serif;
+}
+ul{
+    line-height: 40px;
+}
+#fav_things{
+    background-color: blueviolet;
+    text-align: left;
+}
+ul{
+    display: flex;
+}
+#one_1{
+   height: 170px;
+   width: 350px;
+   text-align: center;
+   background-repeat: no-repeat;
+   background-image: url(./swimming-pool-construction-contractor-and-designer-500x500.jpg);
+}
+#muvi{
+    background-repeat: no-repeat;
+    background-image: url(./images.jpg);
+    text-align: center;
+    width: 400px;
+    height: 200px;
+}
+#novels{
+    background-image: url(./download.jpg\ 3);
+    background-repeat: no-repeat;
+    text-align: center;
+    height: 170px;
+    width: 400px;
+}
+#sleep{
+background-image: url(./download.jpg\ 4);  
+background-repeat: no-repeat;
+text-align: center; 
+height: 170px;
+width: 400px;
+}
+
+    
+
+#pilau {
+    background-image: url(./pilau.jpg);
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 400px;
+    text-align: center;
+
+}
+#fish{
+    background-image: url(./fish.jpg\ 5);
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 400px;
+    text-align: center;
+}
+#chicken{
+    background-image: url(./download.jpg\ 5);
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 400px;
+    text-align: center;
+}
+#ugali{
+    background-image: url(./ugali\ m.jpg\ 3);
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 400px;
+    text-align: center;
+
+}
+ol{
+    display: flex;
+}
