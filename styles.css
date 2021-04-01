@@ -1,9 +1,17 @@
+#body_one{
+    background-color: white;
+}
+body{
+    background-color: red;
+}
+
+
 h1{
-    color: #0000f;
+    color: black;
     text-align: center;
 }
 h2{
-    color: green;
+    color: black;
     font-style: italic;
     text-align: center;
 }
@@ -13,6 +21,7 @@ p{
 ul{
     line-height: 40px;
 }
+<<<<<<< HEAD
 #body_one{
     background-color:blanchedalmond;
 }
@@ -36,6 +45,8 @@ p{
 ul{
     line-height: 40px;
 }
+=======
+>>>>>>> master
 #fav_things{
     background-color: blueviolet;
     text-align: left;
